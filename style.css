@@ -17,7 +17,7 @@ body {
 }
 main{
     display: flex;
-    height: 70%;
+    height: 75%;
     flex-direction: column;
     align-items: center;
     width: 1000px;
@@ -105,8 +105,8 @@ main{
     display: flex;
     flex-direction: column;
     background: hsl(300, 43%, 22%);
-    width: 31%;
-    height: 75%;
+    width: 32%;
+    height: 65%;
     border-radius: 10px;
 }
 
