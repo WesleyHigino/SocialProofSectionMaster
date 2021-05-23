@@ -28,6 +28,7 @@ main{
 #container{
     display: flex;
     align-items: center;
+    margin-bottom: 40px;
     height: auto;
     width: 100%;
     justify-content: space-between;
@@ -41,10 +42,11 @@ main{
 
 .text-title {
     display: flex;
-    font-size: 30px;
+    font-size: 40px;
     color: hsl(300, 43%, 22%);
+    font-weight: bolder;
+    
 }
-
 .subtitle {
     display: flex;
     margin-top: 15px;
@@ -175,6 +177,12 @@ main{
     #container{
         flex-direction: column;         
     }
+    .title{
+        text-align: center;
+     }
+     .subtitle{
+         text-align: center;
+     }
     .section-classification {
 
         display: flex;
@@ -210,18 +218,27 @@ main{
     main{
         height: 70%;
     }
+    .title{
+       text-align: center;
+    }
+    .text-title {
+        font-size: 30px;
+    }
+    .subtitle{
+        text-align: center;
+    }
     .classification {
-       align-items: center;
-       height: 90px;
+       flex-direction: column;
+       align-items: center; 
     }
     .classification-text{
         display: flex;
-        justify-content: flex-end;
-        width: 100px;
+        margin-bottom: 7px;  
     }
     .image { 
         width: 85px;
         height: 16px;
+        margin: 10px;
     }
     .card {
         height: 500px;
