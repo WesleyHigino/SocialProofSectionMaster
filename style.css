@@ -106,7 +106,7 @@ main{
     flex-direction: column;
     background: hsl(300, 43%, 22%);
     width: 32%;
-    height: 65%;
+    height: 240px;
     border-radius: 10px;
 }
 
