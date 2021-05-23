@@ -106,7 +106,7 @@ main{
     flex-direction: column;
     background: hsl(300, 43%, 22%);
     width: 31%;
-    height: 70%;
+    height: 75%;
     border-radius: 10px;
 }
 
@@ -161,7 +161,7 @@ main{
         width: 350px;
     }
     .card {
-     height: 90%;   
+     height: 100%;   
     }
     main{
         height: 70%;
