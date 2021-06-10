@@ -1,50 +1,67 @@
 # Social proof section
 
-This is a challenge from the Mentor interface to create a "social proof section". The goal of the challenge was to make the project as close as possible to the proposed project. With this challenge I was able to improve my skills with the flex box and with the position property. In this project I also improved my concepts of responsiveness.
+## Sobre o projeto
 
-# designer
+Esta é uma solução do frontend do Mentor. O objetivo do desafio era criar uma "Social proof section" e torna-lá o mais próximo possível do projeto proposto.
 
-Desktop designer:
+## Layout Desktop
 
 ![Getting Started](./img/socialDesktop.png)
 
-Mobile design:
+
+## layout Mobile
 
 ![Getting Started](./img/socialMobile.png)
 
-### Layout
+# Estilização utilizada
 
-The designs were created to the following widths:
+## Cores
 
-- Mobile: 375px
-- Desktop: 1440p
-### Colors
-
-Primary
+### Primária
 
 - Very Dark Magenta: hsl(300, 43%, 22%) 
 - Soft Pink: hsl(333, 80%, 67%)
 
-Neutral
+### Neutra
 
 - Dark Grayish Magenta: hsl(303, 10%, 53%) 
 - Light Grayish Magenta: hsl(300, 24%, 96%) 
 - White: hsl(0, 0%, 100%)
 
-### Typography
+## tipografia
 
-Body
+### Body
 
 - Font size: 15px
 
-Font
+### Font
 
 - Family: Spartan
 - Weights: 400, 500, 700
 
-### challenges:
 
-Frontend Mentor[https://www.frontendmentor.io/solutions/html-css-and-using-flex-box-5De1s_aX4]
+# Tecnologias utilizadas
 
-### site [https://app.netlify.com/sites/socialproof01/settings/general]
+## Front end
 
+- HTML / CSS 
+
+Modelo de layout utilizado:
+
+- FlexBox
+
+## Implantação em produção
+
+- Front end web: Netlify
+  
+  https://app.netlify.com/sites/socialproof01/settings/general
+  
+# Meu aprendizado neste projeto
+  
+  Com este desafio pude aprimorar minhas habilidades com a flex box e com a propriedade position.Também aprimorei meus conceitos de responsividade.Neste projeto também pude entender melhor a importância dos comentários nas linhas de códigos, que facilitam muito em uma eventual manutenção e interpretação de outros desenvolvedores.
+  
+# Autor
+
+Wesley higino Pereira
+
+https://www.linkedin.com/in/wesleyhigino/
